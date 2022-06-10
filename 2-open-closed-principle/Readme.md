@@ -1,0 +1,1 @@
+# Les entités doivent être ouvertes à l'extension et fermées à la modification.

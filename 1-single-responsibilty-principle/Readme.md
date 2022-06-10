@@ -1,0 +1,1 @@
+# Une classe ne doit avoir qu'une seule et unique responsabilité.
